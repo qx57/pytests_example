@@ -1,0 +1,10 @@
+{
+  "test": {
+    "base_url": "https://petstore.swagger.io/v2",
+    "path": {
+      "pet": "/pet",
+      "petId": "/pet/{petId}"
+    },
+    "api_key": "api_key_123"
+  }
+}

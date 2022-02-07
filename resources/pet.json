@@ -1,0 +1,12 @@
+{
+  "category": {
+    "id": 123,
+    "name": "cat1"
+  },
+  "name": "Jackson",
+  "photoUrls": [
+    "http://baseurl.com/some/path/123.jpg"
+  ],
+  "tags": [],
+  "status": "available"
+}
